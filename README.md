@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ nothing as of now 
 - 📫 my mail id is @amritamahapatra15gmail.com
+- linktr.ee/vixy4323
 
 <!---
 amri4323/amri4323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
