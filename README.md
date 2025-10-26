@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @amri4323
-- 👀 i am currently a beginner, i like writing and debugging code
-- 🌱 I’m currently learning Python
-- 💞️ nothing as of now 
-- 📫 my mail id is @amritamahapatra15gmail.com
-- linktr.ee/vixy4323
+Amrita this side, I lean more towards actual hardware based projects using c++ (always learning).
+I have recently gotten more into Python and cryptography, And currently working on a NLP based project for people with speaking disorders. 
+
+Reach out to me at
+Email: amritamahapatra15@gmail.com
+Linkdin : Amrita Mahapatra
+
+Open to meaningful collaborations and appreciative of creative work, p
 
 <!---
 amri4323/amri4323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
