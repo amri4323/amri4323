@@ -5,7 +5,7 @@ Reach out to me at
 Email: amritamahapatra15@gmail.com
 Linkdin : Amrita Mahapatra
 
-Open to meaningful collaborations and appreciative of creative work, p
+Open to meaningful collaborations and appreciative of creative work.
 
 <!---
 amri4323/amri4323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
